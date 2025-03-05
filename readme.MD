@@ -37,6 +37,7 @@
    + ArrayList, LinkedList, Queue, Stack;
    + HashMap;
    + JOptionPane;
+   + Enums;
    + Tratamento de exceção.
 
    <p>Os membros também podem realizar um projeto para obter o certificado deste treinamento. Ao se tornar membro, você já pode realizar este projeto para obter o diploma.</p>
