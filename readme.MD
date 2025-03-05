@@ -18,6 +18,7 @@
    + Variáveis;
    + Concatenação;
    + Classe Scanner;
+   + Conversão de dados;
    + Operadores: Lógicos, Relacionais e Aritméticos;
    + Condicional;
    + Operador ternário;
